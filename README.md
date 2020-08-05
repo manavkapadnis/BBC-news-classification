@@ -1,6 +1,6 @@
 # BBC-news-classification
 ## Please Run the notebook in google Collab ,because the dataset is stored in Google file stream.
-The Datasett consists of 2225 news articles,classified into 5 different categories-
+The Dataset consists of 2225 news articles,classified into 5 different categories-
 1. Tech <br>
 2. Business <br>
 3. Sports <br>
